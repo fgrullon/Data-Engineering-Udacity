@@ -15,3 +15,4 @@ Status | Symbol
 ------------ | ------------- 
 Completed |  :heavy_check_mark:
 Pending | :heavy_multiplication_x:
+
